@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>Instalar Tema</title>
-      <link>https://NadeemAmar.github.io/docs/instalar-tema/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://NadeemAmar.github.io/docs/instalar-tema/</guid>
-      <description>Tutorial de intalación del tema utilizando el Framework Hugo.</description>
-    </item>
-    
-    <item>
       <title>Configuración</title>
       <link>https://NadeemAmar.github.io/docs/configuracion/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -44,7 +35,25 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://NadeemAmar.github.io/docs/entrega-1/</guid>
-      <description>Documentación respecto a la primera entrea (Planimetría)</description>
+      <description>Documentación respecto a la primera entrega (Planimetría)</description>
+    </item>
+    
+    <item>
+      <title>Entrega 2</title>
+      <link>https://NadeemAmar.github.io/docs/entrega-2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://NadeemAmar.github.io/docs/entrega-2/</guid>
+      <description>Ilustración paso a paso de como realizar una serie de procesos para copiar una silla</description>
+    </item>
+    
+    <item>
+      <title>Entrega 3</title>
+      <link>https://NadeemAmar.github.io/docs/entrega3/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://NadeemAmar.github.io/docs/entrega3/</guid>
+      <description>Ilustración paso a paso de como realizar una serie de procesos para realizar un desbaste, basado en el respaldo de la silla de &amp;ldquo;Encargo 2&amp;rdquo;</description>
     </item>
     
     <item>
@@ -54,15 +63,6 @@
       
       <guid>https://NadeemAmar.github.io/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
-      <title>Objetivos del Curso</title>
-      <link>https://NadeemAmar.github.io/docs/objetivos/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://NadeemAmar.github.io/docs/objetivos/</guid>
-      <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
     </item>
     
   </channel>
